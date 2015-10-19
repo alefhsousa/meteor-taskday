@@ -18,4 +18,4 @@ Com esse projeto, tenho como objetivo entender o ecossistema do **[Meteor](http:
 
 **Você pode consultar a aplicação [aqui](https://taskday.meteor.com)**
 
-*[Para conhecer mais plugins para o Meteor você pode acessar o **Atmospherejs**.](https://atmospherejs.com)        
+*[Para conhecer mais plugins para o Meteor você pode acessar o Atmospherejs.](https://atmospherejs.com)        
