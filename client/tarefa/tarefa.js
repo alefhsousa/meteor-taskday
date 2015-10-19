@@ -6,7 +6,7 @@ Template.tarefa.events({
       var tarefa = $("#tarefa");
       var nome = tarefa.val();
   //    Tarefas.insert({nome: nome, data: new Date()});
-      Meteor.call("adiciona", {nome : nome});
+      Meteor.call("adiciona", {nome : nome, usuario: this.userId });
       tarefa.val("");
   }
 });

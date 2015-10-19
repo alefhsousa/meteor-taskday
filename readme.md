@@ -2,7 +2,8 @@
 
 ## Objetivo
 
-Com esse projeto, tenho como objetivo entender o ecossistema do **[Meteor](http://meteor.com)** e como posso utilizar ele no meu dia-a-dia. A aplicação é um simples "ToDo", realizada utilizando a própria documentação do meteor.
+
+Com esse projeto, tenho como objetivo entender o ecossistema do **[Meteor](http://meteor.com)** e como posso utilizar ele no meu dia-a-dia. A aplicação é um simples *"ToDo"*, realizada utilizando a própria documentação do meteor.
 
 
 ##Plugins utilizados
@@ -13,4 +14,8 @@ Com esse projeto, tenho como objetivo entender o ecossistema do **[Meteor](http:
 * [momentjs](https://atmospherejs.com/momentjs/moment)
 * [accounts-ui-ian](https://atmospherejs.com/ian/accounts-ui-bootstrap-3)
 
-*[Para conhecer mais plugins para o Meteor você pode acessar o Atmospherejs.](https://atmospherejs.com)        
+##Aplicação
+
+**Você pode consultar a aplicação [aqui](https://taskday.meteor.com)**
+
+*[Para conhecer mais plugins para o Meteor você pode acessar o **Atmospherejs**.](https://atmospherejs.com)        

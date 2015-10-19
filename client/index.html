@@ -5,8 +5,12 @@
 <body>
 	{{> header create}}
 	<main class="container">
+		{{#if currentUser}}
 		{{> tarefa}}
 		{{> lista}}
+		{{else}}
+		<p class="text-center"> você deve se autenticar primeiro. </p>
+		{{/if}}
 	</main>
 
 	{{> footer}}
